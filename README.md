@@ -3,15 +3,15 @@ TFOD is the first benchmark dataset for **T**ask-Focused **F**ew-Shot **O**bject
 
 Contact: Brent Griffin (griffb at umich dot edu)
 
-__Benchmark Example from Physical Robot Application.__
+__Benchmark Example.__
 ![alt text](./figure/tfod_overview.jpg?raw=true "Benchmark Example from Robot")
 
 ## Using TFOD
 
-__Run__ ``./demo/tfod_manual_data_demonstration.py`` to manually load TFOD's few-shot annotation and evaluation data. <br />
+__Run__ ``./demo/tfod_manual_data_demonstration.py`` to manually load TFOD data. <br />
 [native Python]
 
-__Run__ ``./demo/tfod_detectron2_data_demonstration.py`` to automatically load and evaluate TFOD data using [detectron2](https://github.com/facebookresearch/detectron2). <br />
+__Run__ ``./demo/tfod_detectron2_data_demonstration.py`` to automatically load data to [detectron2](https://github.com/facebookresearch/detectron2). <br />
 [native Python, has detectron2 dependency]
 
 Here are the commands we used to set up a virtual environment for detectron2 and TFOD:
