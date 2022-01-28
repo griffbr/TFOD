@@ -1,4 +1,4 @@
-# TFOD Benchmark for Few-Shot Object Detection (in progress)
+# TFOD Benchmark for Few-Shot Object Detection
 TFOD is the first benchmark dataset for **T**ask-Focused **F**ew-Shot **O**bject **D**etection. We found that detection is not reliable outside of its initial training setting for many robot tasks. However, many researchers do not have a robot or even access to data to evaluate few-shot detection algorithms in a robotics setting. Notably, few-shot is exactly as it sounds, having to perform detection with very few annotated examples. Thus, we created the TFOD Benchmark in a challenging robot manipulation setting, which provides highly variable image characteristics for a consistent set of objects. We believe this evaluation will help guide innovation in our community toward increasingly reliable few-shot detection for robotics.
 
 Contact: Brent Griffin (griffb at umich dot edu)
@@ -24,7 +24,7 @@ pip install torch torchvision IPython git+https://github.com/facebookresearch/de
 
 ## Benchmark
 
-The TFOD Benchmark uses standard MS-COCO AP metrics and *k* task-focused annotation across 12 object classes.
+The TFOD Benchmark uses MS-COCO AP metrics and *k* task-focused annotation across 12 object classes.
 
 | Method | *k* | AP | AP50 | AP75 | APs | APm | APl |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
