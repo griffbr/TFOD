@@ -24,7 +24,9 @@ pip install torch torchvision IPython git+https://github.com/facebookresearch/de
 
 ## Benchmark
 
-| Method | k | AP | AP50 | AP75 | APs | APm | APl |
+The TFOD Benchmark uses standard MS-COCO AP metrics and *k* task-focused annotation across 12 object classes.
+
+| Method | *k* | AP | AP50 | AP75 | APs | APm | APl |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 | [ClickBot](https://github.com/griffbr/tfod "arXiv Paper") | 1 | 13.6 | 19.5 | 18.1 | 0.0 | 33.7 | 23.2 |
 | [ClickBot](https://github.com/griffbr/tfod "arXiv Paper") | 2 | 17.7 | 23.3 | 21.6 | 0.0 | 27.4 | 21.0 |
@@ -51,9 +53,9 @@ Please cite our [paper](https://github.com/griffbr/tfod "Task-Focused Few-Shot O
 }
 ```
 
-__TFOD Experiment Videos:__ https://youtu.be/38Qqh6yYdVY
+__TFOD Experiment Videos:__ https://youtu.be/r5MWf7osI4w
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/38Qqh6yYdVY/0.jpg)](https://youtu.be/38Qqh6yYdVY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r5MWf7osI4w/0.jpg)](https://youtu.be/r5MWf7osI4w)
 
 ## Use
 
