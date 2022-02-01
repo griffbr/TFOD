@@ -49,7 +49,7 @@ Please cite our [paper](https://arxiv.org/pdf/2201.12437 "Task-Focused Few-Shot 
 @article{Gr22,
   title = {Task-Focused Few-Shot Object Detection for Robot Manipulation},
   author = {Griffin, Brent},
-  journal={cs.CV/2201.12437 (arXiv)},
+  journal = {cs.CV/2201.12437 (arXiv)},
   year = {2022}
 }
 ```
