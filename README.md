@@ -19,7 +19,8 @@ Here are the commands we used to set up a virtual environment for detectron2 and
 python3 -m venv ~/tfod
 source ~/tfod/bin/activate
 pip install --upgrade pip
-pip install torch torchvision IPython git+https://github.com/facebookresearch/detectron2.git
+pip install torch torchvision IPython 
+pip install git+https://github.com/facebookresearch/detectron2.git
 ```
 
 ## Benchmark
