@@ -33,7 +33,7 @@ The TFOD Benchmark uses MS-COCO AP metrics and *k* few-shot examples across 12 o
 | [ClickBot](https://arxiv.org/pdf/2201.12437 "Paper") | 2 | 18.3 | 24.3 | 22.5 | 0.0 | 32.1 | 27.7 |
 | [ClickBot](https://arxiv.org/pdf/2201.12437 "Paper") | 4 | 35.0 | 46.0 | 42.0 | 1.7 | 57.4 | 39.0 |
 
-Is your technique missing although the paper and code are public? Let us know and we'll add it. Our baseline TFOD results are averaged across ten consecutive trials. Use this approach to report results if your method is nondeterministic.
+Is your technique missing although the paper and code are public? Let us know and we'll add it. We average our baseline TFOD results across ten consecutive trials. Use this approach to report results if your method is nondeterministic.
 
 ## Using ClickBot Baseline on TFOD Benchmark
 
