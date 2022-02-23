@@ -25,15 +25,15 @@ pip install git+https://github.com/facebookresearch/detectron2.git
 
 ## Benchmark
 
-The TFOD Benchmark uses MS-COCO AP metrics and *k* task-focused annotation across 12 object classes.
+The TFOD Benchmark uses MS-COCO AP metrics and *k* few-shot examples across 12 object classes.
 
 | Method | *k* | AP | AP50 | AP75 | APs | APm | APl |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
-| [ClickBot](https://arxiv.org/pdf/2201.12437 "Paper") | 1 | 13.6 | 19.5 | 18.1 | 0.0 | 33.7 | 23.2 |
-| [ClickBot](https://arxiv.org/pdf/2201.12437 "Paper") | 2 | 17.7 | 23.3 | 21.6 | 0.0 | 27.4 | 21.0 |
-| [ClickBot](https://arxiv.org/pdf/2201.12437 "Paper") | 4 | 33.7 | 45.0 | 39.8 | 0.5 | 52.0 | 43.4 |
+| [ClickBot](https://arxiv.org/pdf/2201.12437 "Paper") | 1 | 14.1 | 19.9 | 17.2 | 0.0 | 32.9 | 22.8 |
+| [ClickBot](https://arxiv.org/pdf/2201.12437 "Paper") | 2 | 18.3 | 24.3 | 22.5 | 0.0 | 32.1 | 27.7 |
+| [ClickBot](https://arxiv.org/pdf/2201.12437 "Paper") | 4 | 35.0 | 46.0 | 42.0 | 1.7 | 57.4 | 39.0 |
 
-Is your technique missing although the paper and code are public? Let us know and we'll add it.
+Is your technique missing although the paper and code are public? Let us know and we'll add it. Our baseline TFOD results are averaged across ten consecutive trials. Use this approach to report results if your method is nondeterministic.
 
 ## Using ClickBot Baseline on TFOD Benchmark
 
@@ -43,20 +43,11 @@ __Run__ ``./demo/tfod_clickbot_baseline_demonstration.py`` to replicate our Clic
 __ClickBot Per-Object Benchmark Results.__
 ![alt text](./figure/clickbot_baseline.jpg?raw=true "ClickBot Per-Object Results")
 
-## Publication
-Please cite our [paper](https://arxiv.org/pdf/2201.12437 "Task-Focused Few-Shot Object Detection for Robot Manipulation pdf") if you find it useful for your research.
-```
-@article{Gr22,
-  title = {Task-Focused Few-Shot Object Detection for Robot Manipulation},
-  author = {Griffin, Brent},
-  journal = {cs.CV/2201.12437 (arXiv)},
-  year = {2022}
-}
-```
-
-__TFOD Experiment Videos:__ https://youtu.be/r5MWf7osI4w
+## TFOD Experiment Videos
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r5MWf7osI4w/0.jpg)](https://youtu.be/r5MWf7osI4w)
+
+ https://youtu.be/r5MWf7osI4w
 
 ## Use
 
