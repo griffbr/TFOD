@@ -47,7 +47,11 @@ __ClickBot Per-Object Benchmark Results.__
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r5MWf7osI4w/0.jpg)](https://youtu.be/r5MWf7osI4w)
 
- https://youtu.be/r5MWf7osI4w
+https://youtu.be/r5MWf7osI4w
+ 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OhQfMPuZQlg/0.jpg)](https://youtu.be/OhQfMPuZQlg)
+ 
+https://youtu.be/OhQfMPuZQlg
 
 ## Use
 
