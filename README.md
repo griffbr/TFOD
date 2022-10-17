@@ -46,19 +46,19 @@ __ClickBot Per-Object Benchmark Results.__
 ## Publication
  Please cite our [paper](https://arxiv.org/pdf/2201.12437 "Task-Focused Few-Shot Object Detection for Robot Manipulation pdf") if you find it useful for your research.
  ```
- @article{Gr22,
-   title = {Task-Focused Few-Shot Object Detection for Robot Manipulation},
+ @inproceedings{Gr23,
    author = {Griffin, Brent},
-   journal = {cs.CV/2201.12437 (arXiv)},
-   year = {2022}
+   title = {Mobile Robot Manipulation using Pure Object Detection},
+   booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+   year = {2023}
  }
  ```
 
 ## TFOD Experiment Videos
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r5MWf7osI4w/0.jpg)](https://youtu.be/r5MWf7osI4w)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Bby4Unw7HrI/0.jpg)](https://youtu.be/Bby4Unw7HrI)
 
-https://youtu.be/r5MWf7osI4w
+https://youtu.be/Bby4Unw7HrI
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/giiSYDwZM4c/0.jpg)](https://youtu.be/giiSYDwZM4c)
 
