@@ -44,7 +44,7 @@ __ClickBot Per-Object Benchmark Results.__
 ![alt text](./figure/clickbot_baseline.jpg?raw=true "ClickBot Per-Object Results")
 
 ## Publication
- Please cite our [paper](https://arxiv.org/pdf/2201.12437.pdf "Mobile Robot Manipulation using Pure Object Detection pdf") if you find it useful for your research.
+ Please cite our [paper](https://openaccess.thecvf.com/content/WACV2023/html/Griffin_Mobile_Robot_Manipulation_Using_Pure_Object_Detection_WACV_2023_paper.html "Mobile Robot Manipulation using Pure Object Detection") if you find it useful for your research.
  ```
  @inproceedings{Gr23,
    author = {Griffin, Brent},
