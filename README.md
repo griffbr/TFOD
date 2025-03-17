@@ -56,9 +56,9 @@ __ClickBot Per-Object Benchmark Results.__
 
 ## TFOD Experiment Videos
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/77oVdhyY4vU/0.jpg)](https://youtu.be/77oVdhyY4vU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VqfJ_WfiP5s/0.jpg)](https://youtu.be/VqfJ_WfiP5s)
 
-https://youtu.be/77oVdhyY4vU
+https://youtu.be/VqfJ_WfiP5s
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/giiSYDwZM4c/0.jpg)](https://youtu.be/giiSYDwZM4c)
 
